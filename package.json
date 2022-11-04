@@ -30,7 +30,7 @@
     "browser-sync": "^2.18.8",
     "cssnano": "^3.10.0",
     "glob": "^7.1.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-bump": "^2.7.0",
     "gulp-clean": "^0.3.2",
     "gulp-consolidate": "^0.2.0",
